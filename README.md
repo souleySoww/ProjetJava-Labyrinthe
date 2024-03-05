@@ -1,4 +1,4 @@
-# l2s4-projet-2022
+# l2s4-projet-2023
 
 Vous devez *forker* ce projet dans votre espace de travail Gitlab (bouton `Fork`) et vidéo sur le [portail](https://www.fil.univ-lille1.fr/portail/index.php?dipl=L&sem=S4&ue=Projet&label=Documents)
 Un unique fork doit être réalisé par équipe.
