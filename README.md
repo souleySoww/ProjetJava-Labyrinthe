@@ -9,8 +9,6 @@ N'oubliez pas d'ajouter les autres membres de votre équipe aux membres du proje
 # Equipe
 
 - Vassell TCHOUMI
-- Gabriella Divine ISHIMWE
-- Annie INGABIRE
 - Yahya Mamoudou SOW
 
 # Sujet
